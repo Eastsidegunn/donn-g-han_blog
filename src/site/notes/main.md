@@ -21,3 +21,17 @@ I’d love to share and exchange ideas on this journey!
 이러한 모습들에서 지능의 본질 중 하나를 잘 드러내고 있다고 생각해요. 우리가 일상적으로 어떤 과제에서 의미있고 유용한 정보를 얻고 그것을 다른 과제에서도 활용하는 것, 아마 우리가 "통찰력"으로 부르는 대상 같습니다. 저는 이런 특성을 인공지능에도 담아내고 싶습니다. 그래서 Multi-Task Reinforcement learning(MTRL)과 Continual Reinforcement Learning(CRL)에 관심을 두고 있어요. 이 주제들은 단순히 똑똑한 AI를 넘어 계속해서 배우고 성장할 수 있는 지능을 만드는 핵심 열쇠라고 생각해요. (물론 흔한 공돌이의 편향일 수 있죠! all for one!) 
 
 같이 이야기 할 수 있었으면 좋겠어요!
+
+
+
+
+
+
+---
+## Hobby...
+- Climbing
+- Weight Training
+- Creative Cooking in a Small Student Apartment
+
+## What I am reading...
+- Upanishad
