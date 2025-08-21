@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":true,"dg-show-inline-title":true,"dg-enable-search":true,"dg-show-file-tree":true,"dg-link-preview":true,"dg-show-tags":true,"dg-pass-frontmatter":true,"permalink":"/main/","tags":["gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true}
 ---
 
 When people learn something new, fascinating things happen.  
