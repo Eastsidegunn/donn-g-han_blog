@@ -139,9 +139,9 @@ Appendix B에서는 각 단계마다 변화하지 않는 다른 형태인 dynami
 모델은 하나의 트랜스포머 블록에, MLP skip connection 제거.
 예측은 query토큰 출력의 마지막 성분.
 결과적으로 i가 커질수록,  $\|(\Delta W)_{i+1} - (\Delta W)_i \|_2$가 감소하고 소멸하였다. 이러한 수렴성은 경사하강법의 Dynamics와 유사하게 나타났다. (batch loss가 $(\hat y_{query}) - \langle w, x_{query}\rangle)^2$) 
-![Pasted image 20250729181039.png](/img/user/Pasted%20image%2020250729181039.png)
+![Pasted image 20250729181039.png](/img/user/blog%20asset/Pasted%20image%2020250729181039.png)
 pretrain 후 새롭게 만든 세트에서 앞 $i$개의 예시만으로 SGD 파인튜닝을 수행하여, test loss를 계산한 결과와, $\Delta W$를 계산하여 얻은 test loss와 비교해도, 100회 평균 서로 유사하게 loss를 줄여나갔음.
-![Pasted image 20250729181559.png](/img/user/Pasted%20image%2020250729181559.png)
+![Pasted image 20250729181559.png](/img/user/blog%20asset/Pasted%20image%2020250729181559.png)
 
 
 ## 한계:

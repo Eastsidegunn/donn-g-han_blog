@@ -77,7 +77,7 @@ $a_{k+1}, o_{k+1} \in \mathcal A_{k+1}$
 트리의 각 엣지는 다음 통계를 가진다.$\{N(s,\mathcal A), Q(s, \mathcal A), P(s,\mathcal A), R(s,\mathcal A)\}$
 각각 방문 횟수(N), 추정 Q값, 사전확률(P), 보상(R)이다.
 primitive edge의 통계는 option edge의 통계를 포함한다.(Muzero와 동일)
-![Pasted image 20250723123234.png](/img/user/Pasted%20image%2020250723123234.png)
+![Pasted image 20250723123234.png](/img/user/blog%20asset/Pasted%20image%2020250723123234.png)
 Selection
 Expansion
 Backup

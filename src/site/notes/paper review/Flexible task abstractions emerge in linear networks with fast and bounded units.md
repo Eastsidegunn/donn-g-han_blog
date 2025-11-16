@@ -212,7 +212,7 @@ $$
 
 
 
-![Pasted image 20250715190059.png](/img/user/Pasted%20image%2020250715190059.png)
+![Pasted image 20250715190059.png](/img/user/blog%20asset/Pasted%20image%2020250715190059.png)
 블록 길이, 정규화, 그리고 게이트 학습률이 모델의 specialization에 어떻게 영향을 주는지 분석하면 다음과 같다. 전체 데이터 양을 고정했을 때, 블록 길이가 길어질 수록 모델의 전문화가 더 잘 나타났으며, 이는 게이팅이 시간-역전 대칭성을 깨기 때문에 발생함.
 만약 각 태스크를 일정 시간 학습하고 다음에 다른 태스크를 같은 시간 학습한다면, 원래 첫번째 태스크에서 배운것이 두번째에서 forgetting 됨. -> 변화 없음 -> 시간 역전 대칭성
 하지만 게이팅이 있으면, 두번째 블록에서도 첫번째 학습된것이 남아있으므로... 블록길이가 길수록 specialization이 잘 나타나는 것.
@@ -220,5 +220,5 @@ $$
 
 
 
-![Pasted image 20250715191243.png](/img/user/Pasted%20image%2020250715191243.png)
-![Pasted image 20250715191317.png](/img/user/Pasted%20image%2020250715191317.png)
+![Pasted image 20250715191243.png](/img/user/blog%20asset/Pasted%20image%2020250715191243.png)
+![Pasted image 20250715191317.png](/img/user/blog%20asset/Pasted%20image%2020250715191317.png)
